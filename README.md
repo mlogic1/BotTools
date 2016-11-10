@@ -20,7 +20,7 @@
 
 # Standalone application
 - In the standalone folder there's a .zip file that contains an executable that can utilize the library
-- [Click to download](https://github.com/mlogic1/BotTools/raw/master/bin/Standalone/BotTools.zip)
+- [Click to download](https://github.com/mlogic1/BotTools/raw/master/Standalone/BotTools.zip)
 
 # License
 
