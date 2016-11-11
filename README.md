@@ -5,6 +5,8 @@
 >The solution is compiled as a single .dll file (BotTools.dll)
 
   
+[![Build Status](https://travis-ci.org/mlogic1/BotTools.svg?branch=master)](https://travis-ci.org/mlogic1/BotTools)  
+  
 # Preview
 ![alt tag1](http://i.imgur.com/aKTiEfe.png)
 
