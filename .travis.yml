@@ -1,5 +1,5 @@
 language: csharp
-solution: src/INIFileParser.sln
+solution: BotTools/BotTools.sln
 script:
   - xbuild BotTools/BotTools.sln /nologo /verbosity:normal /p:Configuration=Release
 mono:
