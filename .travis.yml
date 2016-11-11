@@ -4,4 +4,3 @@ script:
   - xbuild BotTools/BotTools.sln /nologo /verbosity:normal /p:Configuration=Release
 mono:
   - latest
-  - 3.12.0
